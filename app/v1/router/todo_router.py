@@ -107,5 +107,5 @@ def delete_task(
     todo_service.delete_task(task_id, current_user)
 
     return {
-        'msg': 'The task has been deleted sucessfully'
+        'msg': 'Task has been deleted sucessfully'
     }
