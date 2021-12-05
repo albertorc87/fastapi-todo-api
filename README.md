@@ -9,3 +9,5 @@
 [Parte 4: Autenticación con JWT en FastAPI](https://cosasdedevs.com/posts/autenticacion-login-jwt-fastapi/)
 
 [Parte 5: Cómo crear un CRUD con FastAPI](https://cosasdedevs.com/posts/crud-fastapi/)
+
+[Parte 6: Tests en FastAPI](https://cosasdedevs.com/posts/tests-fastapi/)
